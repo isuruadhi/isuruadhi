@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  
+## Hi , I'm ISURU - aka ISSA
 
-<!--
-**isuruadhi/isuruadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p >   
+    
+<img align = "left" src="https://raw.githubusercontent.com/issaadhi/issaadhi/main/image/bit3.png" />  
+  </p>
+  
+  
+# I'm a Human Being!
 
-Here are some ideas to get you started:
+ 🌱 I’m currently a Senior Network Specialist <br>
+ 👀 An IT Enthusiast. <br>
+ ⚡ Fun fact: I love  music and gaming. <br>
+  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <b>Find me on:</b>
+
+  <div>
+    <a href="https://www.linkedin.com/in/isuruadhikari/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:isuruadhikari2@gmail.com?">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.hackerrank.com/isuruadhikari2">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a> <br>
+    <a href="https://issaadhi.weebly.com">
+      <img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=blogger&logoColor=white">
+    </a>
+    
+  </div>
+
